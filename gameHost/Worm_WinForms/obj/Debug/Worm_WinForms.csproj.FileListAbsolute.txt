@@ -1,0 +1,9 @@
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\bin\Debug\Worm_WinForms.exe.config
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\bin\Debug\Worm_WinForms.exe
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\bin\Debug\Worm_WinForms.pdb
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.csprojResolveAssemblyReference.cache
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.WormGame.resources
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.Properties.Resources.resources
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.csproj.GenerateResource.Cache
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.exe
+E:\[clouds]\OneDrive\Coding\C\Code\C#\Worm_WinForms\Worm_WinForms\obj\Debug\Worm_WinForms.pdb
