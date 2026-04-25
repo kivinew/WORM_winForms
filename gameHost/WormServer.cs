@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using Worm_WinForms;
+using WormWinForms;
 
 namespace gameHost
 {

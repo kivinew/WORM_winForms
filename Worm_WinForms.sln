@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worm_WinForms", "Worm_WinForms\Worm_WinForms.csproj", "{EC308919-37C5-4C5D-8EEF-95E073F2CEE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormWinForms", "WormWinForms\WormWinForms.csproj", "{EC308919-37C5-4C5D-8EEF-95E073F2CEE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameHost", "gameHost\gameHost.csproj", "{F91491D4-774A-429C-BD7F-96C8340785AC}"
 EndProject
