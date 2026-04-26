@@ -1,0 +1,8 @@
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\bin\Debug\net10.0-windows\.msCoverageSourceRootsMapping_SnakeNet.Tests
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\bin\Debug\net10.0-windows\CoverletSourceRootsMapping_SnakeNet.Tests
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.csproj.AssemblyReference.cache
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.AssemblyInfoInputs.cache
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.AssemblyInfo.cs
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.csproj.CoreCompileInputs.cache
+E:\DOWNLOADS\CREATIVE\C#\WORM_winForms\Tests\obj\Debug\net10.0-windows\SnakeNet.Tests.sourcelink.json

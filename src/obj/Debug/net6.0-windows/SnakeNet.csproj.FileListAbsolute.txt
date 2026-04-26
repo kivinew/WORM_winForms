@@ -1,0 +1,5 @@
+e:\DOWNLOADS\CREATIVE\C#\WORM_winForms\src\obj\Debug\net6.0-windows\SnakeNet.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOWNLOADS\CREATIVE\C#\WORM_winForms\src\obj\Debug\net6.0-windows\SnakeNet.AssemblyInfoInputs.cache
+e:\DOWNLOADS\CREATIVE\C#\WORM_winForms\src\obj\Debug\net6.0-windows\SnakeNet.AssemblyInfo.cs
+e:\DOWNLOADS\CREATIVE\C#\WORM_winForms\src\obj\Debug\net6.0-windows\SnakeNet.csproj.CoreCompileInputs.cache
+e:\DOWNLOADS\CREATIVE\C#\WORM_winForms\src\obj\Debug\net6.0-windows\SnakeNet.sourcelink.json
