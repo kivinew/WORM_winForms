@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7l02g9BRKUY=",
+  "dgSpecHash": "Dg9kGG+gIEA=",
   "success": true,
-  "projectFilePath": "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
+  "projectFilePath": "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\антон\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\антон\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

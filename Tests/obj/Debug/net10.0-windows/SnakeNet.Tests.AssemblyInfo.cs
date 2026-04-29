@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnakeNet.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a168c0cb05d2f240be094906fd728fbe22117be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22281f1bdb4d43cbeb9731608455f1f3b790ca96")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnakeNet.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnakeNet.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

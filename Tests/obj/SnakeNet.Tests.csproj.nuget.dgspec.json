@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj": {}
+    "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj": {}
   },
   "projects": {
     "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\src\\SnakeNet.csproj": {
@@ -363,14 +363,14 @@
         }
       }
     },
-    "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj": {
+    "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
+        "projectUniqueName": "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
         "projectName": "SnakeNet.Tests",
-        "projectPath": "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
+        "projectPath": "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\SnakeNet.Tests.csproj",
         "packagesPath": "C:\\Users\\антон\\.nuget\\packages\\",
-        "outputPath": "E:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\obj\\",
+        "outputPath": "e:\\DOWNLOADS\\CREATIVE\\C#\\WORM_winForms\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
